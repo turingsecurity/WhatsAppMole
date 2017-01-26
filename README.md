@@ -1,5 +1,5 @@
 # WhatsAppMole
-A WhatsApp Message Interceptor
+A WhatsApp Message Interceptor - Thomas Crabtree
 
 RipMe [![Build Status](https://travis-ci.org/4pr0n/ripme.svg?branch=master)](https://travis-ci.org/4pr0n/ripme)
 =====
